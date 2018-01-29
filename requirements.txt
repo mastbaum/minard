@@ -4,8 +4,8 @@ gunicorn
 #pyzmq
 redis>=2.10
 #argparse
-#sphinx
-#requests
+sphinx
+requests
 sqlalchemy
 psycopg2
 #alabaster
